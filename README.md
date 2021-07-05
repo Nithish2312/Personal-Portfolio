@@ -7,7 +7,7 @@ Later on add some javascript for animation and designing.
 ## Sections:
 💥 About me\
 💥 Education\
-💥 Cretification\
+💥 Certification\
 💥 Skills\
 💥 Projects\
 💥 Contact me
